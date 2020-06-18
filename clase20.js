@@ -1,14 +1,3 @@
-/*
-Crear una aplicación web que inicialmente muestre una mesa vacía.
-Utilizando el tablero de control (un botón de agregar y uno de borrar) 
-se podrán agregar y borrar, de a una, las sillas que rodean la mesa. 
-La mesa soporta hasta 8 mesas.
-1. Habria que ponerle a todas las sillas en css display none.
-2. Programar para que cada vez que aprete el boton verde se agreue una silla
-
-
-
-*/
 window.onload = function () {
 	const greenbutton = document.querySelector('.greenbutton')
 	const redbutton = document.querySelector('.redbutton')
