@@ -1,0 +1,76 @@
+.botones {
+  padding: 60px;
+  text-align: right;
+}
+
+
+.sillaf1 {
+	position: absolute;
+	top:100px;
+	left:260px;
+	display:none;
+
+
+}
+
+.sillaf2 {
+	position: absolute;
+	top:100px;
+	left:390px;
+	display:none;
+}
+
+.sillaf3 {
+
+	position: absolute;
+	top:100px;
+	left:520px;
+	display:none;
+
+}
+
+.mesa {
+	position: absolute;
+	top:250px;
+	left: 200px;
+}
+
+.sillab {
+	position: absolute;
+	top:320px;
+	left:60px;
+	display:none;
+}
+
+.sillad {
+
+	position: absolute;
+	top:320px;
+	left:730px;
+	display:none;
+}
+
+.sillab1 {
+	position: absolute;
+	top:570px;
+	left:260px;
+	display:none;
+}
+
+.sillab2 {
+	position: absolute;
+	top:570px;
+	left:390px;
+	display:none;
+}
+
+.sillab3 {
+
+	position: absolute;
+	top:570px;
+	left:520px;
+	display:none;
+
+}
+
+
