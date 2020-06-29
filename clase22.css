@@ -1,0 +1,83 @@
+.body {
+
+	margin: 0px;
+}
+
+.contendedor {
+	height: 100%;
+	display: flex;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+	
+
+}
+
+.ball {
+	height: 62px;
+	width: 62px;
+	border-radius: 50%;
+	background: red; 
+	position:absolute;
+	align-self: center;
+
+}
+
+
+.controls {
+
+	position: absolute;
+	display: inline;
+	padding-left: 1190px;
+	
+	
+}
+
+.colors {
+	position: absolute;
+	padding-top: 550px;
+	padding-left: 1180px;
+	
+	
+}
+
+.blue {
+	height: 21px;
+	width: 21px;
+}
+
+.red {
+	height: 21px;
+	width: 21px;
+}
+
+.green {
+	height: 21px;
+	width: 21px;
+}
+
+
+
+.left {
+	height: 14px;
+	width: 14px;
+}
+
+.right {
+	height: 14px;
+	width: 14px;
+}
+
+.up {
+	height: 14px;
+	width: 14px;
+	display: flex;
+	margin-left: 18px;
+	margin-bottom: 3px;
+
+}
+
+.down {
+	height: 14px;
+	width: 14px;
+}
